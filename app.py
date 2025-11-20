@@ -17,7 +17,7 @@ from main import (
 )
 
 st.set_page_config(page_title="Prompt Refinement Crew — Gemini", layout="wide", page_icon="🛠️")
-st.title("📝 Prompt Refinement & Optimization Crew — Gemini (robust)")
+st.title("📝 Prompt Refinement & Optimization Crew — Gemini")
 
 col_main, col_sidebar = st.columns([3, 1])
 
